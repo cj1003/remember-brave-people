@@ -1,5 +1,4 @@
 [
-  {"x": 10, "y": 5, "color": "#ff0000", "username": "Whi-Wolf"},
   {"x": 3, "y": 19, "color": "#ff0000", "username": "dgdevel"},
   {"x": 14, "y": 19, "color": "#00a9ff", "username": "CatFlirter"},
   {"x": 18, "y": 0, "color": "#00a9ff", "username": "qwe-is-zsh"},
@@ -232,8 +231,6 @@
   {"x": 7, "y": 5, "color": "#4d4f53", "username": "1355576177"},
   {"x": 6, "y": 18, "color": "#FF4500", "username": "advancedAlpaka"},
   {"x": 0, "y": 15, "color": "#FF4500", "username": "ywzzdlp"},
-  {"x": 17, "y": 16, "color": "#FF4500", "username": "kiouler"},
-  {"x": 0, "y": 7, "color": "#FF4500", "username": "yb1959080058"},
-  {"x": 19, "y": 15, "color": "#4d4f53", "username": "18314461596"},
-  {"x": 4, "y": 13, "color": "#4d4f53", "username": "kongmu373"}
+  {"x": 12, "y": 7, "color": "#000FFF", "username": "cj1003"}
+
 ]
